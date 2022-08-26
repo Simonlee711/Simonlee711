@@ -1,5 +1,4 @@
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-vmallela-informational?style=flat-square&logo=linkedin&logoColor=white](https://blog.waalaxy.com/wp-content/uploads/2021/01/Linkedin-Logo-2048x1280.png))](https://www.linkedin.com/in/simon-lee-307ba4172/)
-# Welcome, to Simon Lee's Github 
+# Welcome to Simon Lee's Webpage
 ```
                          ______                     
  _________        .---"""      """---.              
