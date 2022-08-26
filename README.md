@@ -31,7 +31,6 @@
 <br /> <br /> 
 - Lastly I made my own Video Game from scratch called "Find my Bread". It was built using the PyGame game engine, and everything from the artwork to the physics engine was built by me. The game download as well as the source code is publicly available [here](https://github.com/Simonlee711/Basic_Game). Good luck trying to beat the high score >:)
 
-<br /> 
 ## External Links
 <br /> 
 [Linkedin](https://www.linkedin.com/in/simon-lee-307ba4172/)
