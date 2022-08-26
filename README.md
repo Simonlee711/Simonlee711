@@ -1,7 +1,9 @@
-- Hello, I’m @Simonlee711 and I am a current University Student studying Applied Mathematics. I also have knowledge on bioinformatics and computer science and I 
-  wish to use all three of these backgrounds to hopefully one day work in machine learning with medical applications. I have familiarity in working with Python, C programming, Fortran, Matlab, and MIPS 
-  Assembly Language. Some of the repositiories below are me showcasing some of my works from classes I've taken at University and some are projects I have simply
-  worked on my own. 
-  
-- I’m interested in machine learning and finding applications to medicine. During my time at University I have been lucky to spend some time working in Professor Jonsson's lab where I was able to build a deep learning model to predict modalities of a single-cell. Using some form of this background I am curious of using next generation sequencing and making useful models to hopefully see where disease onset occurs. With a new wave of massive genomics data, there is a need for computation to make inferences for these large databases. So through a graduate degree, I hope I can learn about solving some of the mysteries of the world
+Hello, I’m @Simonlee711 and I am a current student at EPFL in Lausanne, Switzerland studying Life Sciences Engineering with a specialization in Biological Data Science. I am a recent graduate at UC Santa Cruz where I obtained my Bachelors of Science degree in Applied Mathematics. 
+<br /> <br /> 
+Some of my affiliations are @UCLA where I recently completed an internship with the Institute for Quantitative and Computational Biosciences. During this 2 month program I worked alongside Dr. Jeffrey Chiang and Akos Rudas where we built a deep learning model that is able to continuously and non-invasively predict blood pressure. The code can be viewed [here](https://github.com/Simonlee711/ABP_Imputation-EHR).
+<br /> <br /> 
+Another one of my affiliations was @UCSC @UCSCGenomicsInstitute in the Jonnson Lab where I worked with Dr. Vanessa Jonnson, Dr. Razvan Marinescu, and Vedu Mallela. Our primary work was in the field of single cell biology where we tried to map gene expression data to the ATAC-seq data for more understanding within a single cell. We experimented with the transformer attention model, a sophisticated deep learning model to perform this task. The code and manuscript can be viewed [here](https://github.com/Simonlee711/Research/tree/master/Transformer/2022)
+
+
+
 
