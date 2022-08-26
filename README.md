@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vmallela-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-lee-307ba4172/)
+[![LinkedIn](https://www.linkedin.com/in/simon-lee-307ba4172/)
 # Welcome, to Simon Lee's Github 
 ```
                          ______                     
