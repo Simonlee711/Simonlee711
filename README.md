@@ -33,5 +33,7 @@
 
 <br /> 
 ## External Links
+<br /> 
 [Linkedin](https://www.linkedin.com/in/simon-lee-307ba4172/)
+<br /> 
 [Instagram](https://www.instagram.com/simonlee.a/)
