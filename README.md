@@ -29,9 +29,6 @@
 
 - Another one of my affiliations was @UCSC @UCSCGenomicsInstitute in the [Jonnson Lab](https://jonssonlab.com/people) where I worked with Dr. Vanessa Jonnson, Dr. Razvan Marinescu, and Vedu Mallela. Our primary work was in the field of single cell biology where we tried to map gene expression data to the ATAC-seq data for more understanding within a single cell. We experimented with the transformer attention model, a sophisticated deep learning model to perform this task. The code and manuscript can be viewed [here](https://github.com/Simonlee711/Research/tree/master/Transformer/2022). 
 
-- My undergraduate thesis was written about an optimized Alzheimer's prediction model that I created from scratch using Keras tensorflow. This took a 2d convolutional neural network and was trained through the [ADNI](https://adni.loni.usc.edu/) dataset. Although Alzheimer's disease is still hardly understood, it had a relatively high classification accuracy but its best feature was its optimized format. With data becoming way to large to suffice in recent years, we processed are brain images in such a way that our computer could handle our data directly onto memory. The code and the thesis can be viewed [here](https://github.com/Simonlee711/Research/tree/master/Alzheimer's%20Classifier).
-
-- Lastly I made my own Video Game from scratch called "Find my Bread". It was built using the PyGame game engine, and everything from the artwork to the physics engine was built by me. The game download as well as the source code is publicly available [here](https://github.com/Simonlee711/Basic_Game). Good luck trying to beat the high score >:)
 
 ## External Links
 [Linkedin](https://www.linkedin.com/in/simon-lee-307ba4172/)
