@@ -26,7 +26,7 @@
 
 - Some of my affiliations are @UCLA where I recently completed an internship with the [Institute for Quantitative and Computational Biosciences](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home). During this 2 month program I worked alongside Dr. Jeffrey Chiang and Akos Rudas where we built a deep learning model that is able to continuously and non-invasively predict blood pressure. 
 
-- Another one of my affiliations was @UCSC @UCSCGenomicsInstitute in the [Jonnson Lab](https://jonssonlab.com/people) where I worked with Dr. Vanessa Jonnson, Dr. Razvan Marinescu, and Vedu Mallela. Our primary work was in the field of single cell biology where we tried to map gene expression data to the ATAC-seq data for more understanding within a single cell. We experimented with the transformer attention model, a sophisticated deep learning model to perform this task.  
+- Another one of my affiliations was @UCSC @UCSCGenomicsInstitute in the [Jonnson Lab](https://jonssonlab.com) where I worked with Dr. Vanessa Jonnson, Dr. Razvan Marinescu, and Vedu Mallela. Our primary work was in the field of single cell biology where we tried to map gene expression data to the ATAC-seq data for more understanding within a single cell. We experimented with the transformer attention model, a sophisticated deep learning model to perform this task.  
 
 
 ## External Links
