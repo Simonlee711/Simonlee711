@@ -21,7 +21,7 @@
 ```
 ## My Affiliations and Work
 
-- Hello, I’m @Simonlee711 and I am a current student at EPFL in Lausanne, Switzerland studying Life Sciences Engineering with a specialization in Biological Data Science. I am a recent graduate at UC Santa Cruz where I obtained my Bachelors of Science degree in Applied Mathematics. 
+- Hello, I’m @Simonlee711 and I am a current student at EPFL in Lausanne, Switzerland studying at the school of Life Sciences. I am a recent graduate at UC Santa Cruz where I obtained my Bachelors of Science degree in Applied Mathematics. 
 
 
 - Some of my affiliations are @UCLA where I recently completed an internship with the [Institute for Quantitative and Computational Biosciences](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home). During this 2 month program I worked alongside Dr. Jeffrey Chiang and Akos Rudas where we built a deep learning model that is able to continuously and non-invasively predict blood pressure. The code can be viewed [here](https://github.com/Simonlee711/ABP_Imputation-EHR).
