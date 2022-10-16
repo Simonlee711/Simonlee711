@@ -1,4 +1,4 @@
-# Welcome to Simon Lee's Webpage
+# Welcome to Simon Lee's Github Repository
 ```
                          ______                     
  _________        .---"""      """---.              
