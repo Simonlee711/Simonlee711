@@ -1,4 +1,7 @@
 # Welcome to Simon Lee's Github Repository
+
+[![Website](https://img.shields.io/badge/Website-people.csail.mit.edu/vmallela-informational?style=flat-square&logo=jekyll&logoColor=white)]([https://simonlee711.github.io/])
+
 ```
                          ______                     
  _________        .---"""      """---.              
