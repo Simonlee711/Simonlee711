@@ -1,6 +1,6 @@
 # Welcome to Simon Lee's Github Repository
 
-[![Website](Simon's website?style=flat-square&logo=jekyll&logoColor=white)]([https://simonlee711.github.io/])
+[![Website](Simon's website-informational?style=flat-square&logo=jekyll&logoColor=white)]([https://simonlee711.github.io/])
 
 ```
                          ______                     
