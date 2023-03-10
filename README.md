@@ -26,7 +26,7 @@
 ```
 ## My Affiliations and Work
 
-- Hello, I’m @Simonlee711 and I am a data scientist at Celsius Therapeutics in Cambridge, Massachusettes. I am a recent graduate at UC Santa Cruz. I also was a student at EPFL studying life sciences engineering! I will be studying at UCLA this upcoming fall as a Ph.D. student in the computational medicine department.
+- Hello, I’m @Simonlee711 and I am a data scientist at Celsius Therapeutics in Cambridge, Massachusettes. I am a recent graduate at UC Santa Cruz. I also was a student at EPFL studying life sciences engineering! 
 
 
 - Some of my affiliations are @UCLA where I recently completed an internship with the [Institute for Quantitative and Computational Biosciences](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home). During this 2 month program I worked alongside Dr. Jeffrey Chiang and Akos Rudas where we built a deep learning model that is able to continuously and non-invasively predict blood pressure. 
