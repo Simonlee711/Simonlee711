@@ -5,24 +5,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-simonlee.a-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/simonlee.a/)](https://www.instagram.com/simonlee.a/)
 
 ```
-                         ______                     
- _________        .---"""      """---.              
-:______.-':      :  .--------------.  :             
-| ______  |      | :                : |             
-|:______B:|      | |  Welcome!!!    | |             
-|:______B:|      | |                | |             
-|:______B:|      | |  I am Simon    | |             
-|         |      | |      :-)       | |             
-|:_____:  |      | |                | |             
-|    ==   |      | :                : |             
-|       O |      :  '--------------'  :             
-|       o |      :'---...______...---'              
-|       o |-._.-i___/'             \._              
-|'-.____o_|   '-.   '-...______...-'  `-._          
-:_________:      `.____________________   `-.___.-. 
-                 .'.##################.'.      :___:
-    fsc       ..'.######################.'..         
-              :____________________________:
+
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_) <=Welcome to Simon's Github=>
+
 ```
 ## My Affiliations and Work
 
