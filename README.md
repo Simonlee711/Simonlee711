@@ -17,9 +17,15 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 ```
 ## My Affiliations and Work
 
-- Hello, I’m @Simonlee711 and I am a data scientist at Celsius Therapeutics in Cambridge, Massachusettes. I am a recent graduate at UC Santa Cruz. I also was a student at EPFL studying life sciences engineering! 
-
-
-- Some of my affiliations are @UCLA where I recently completed an internship with the [Institute for Quantitative and Computational Biosciences](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home). During this 2 month program I worked alongside Dr. Jeffrey Chiang and Akos Rudas where we built a deep learning model that is able to continuously and non-invasively predict blood pressure. 
-
-- Another one of my affiliations was @UCSC @UCSCGenomicsInstitute in the [Jonnson Lab](https://jonssonlab.com) where I worked with Dr. Vanessa Jonnson, Dr. Razvan Marinescu, and Vedu Mallela. Our primary work was in the field of single cell biology where we tried to map gene expression data to the ATAC-seq data for more understanding within a single cell. We experimented with the transformer attention model, a sophisticated deep learning model to perform this task.  
+- Future  (2023): Ph.D. Student at UCLA
+- Current (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
+  - Mentor: Mukund Varma (Senior Machine Learning Scientist) 
+  - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
+- Former  (2022): Visiting Student at École Polytechnique Fédérale de Lausanne
+- Former  (2022): Computational Researcher for [QCBio, UCLA](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home)
+  - Mentors: Dr. Jeffrey Chiang & Akos Rudas
+  - Worked on ABP Imputation Model that can predict future blood pressure
+- Former  (2021): Member of the [Jonnson Lab](https://jonssonlab.com)
+  - Collaborators: Dr. Razvan Marinescu & Vedu Mallela
+  - Worked on using transformer models for scRNA-seq & ATAC-seq mapping
+- Former  (2021): Undergraduate Student studying Applied Mathematics at University of California, Santa Cruz 
