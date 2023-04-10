@@ -19,7 +19,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 - Future  (2023): Ph.D. Student at UCLA
 - Current (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
-  - Mentor: Mukund Varma (Senior Machine Learning Scientist) 
+  - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
 - Former  (2022): Visiting Student at École Polytechnique Fédérale de Lausanne
 - Former  (2022): Computational Researcher for [QCBio, UCLA](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home)
