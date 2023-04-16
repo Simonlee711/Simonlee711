@@ -28,4 +28,3 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Former  (2021): Member of the [Jonnson Lab](https://jonssonlab.com)
   - Collaborators: Dr. Razvan Marinescu & Vedu Mallela
   - Worked on using transformer models for scRNA-seq & ATAC-seq mapping
-- Former  (2021): Undergraduate Student studying Applied Mathematics at University of California, Santa Cruz 
