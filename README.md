@@ -25,6 +25,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Former  (2022): Computational Researcher for [QCBio, UCLA](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home)
   - Mentors: Dr. Jeffrey Chiang & Akos Rudas
   - Worked on ABP Imputation Model that can predict future blood pressure
-- Former  (2021): Member of the [Jonnson Lab](https://jonssonlab.com)
+- Former  (2021): Member of the Jonnson Lab
   - Collaborators: Dr. Razvan Marinescu & Vedu Mallela
   - Worked on using transformer models for scRNA-seq & ATAC-seq mapping
