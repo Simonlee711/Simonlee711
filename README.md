@@ -22,8 +22,8 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
 - Former  (2022): Visiting Student at École Polytechnique Fédérale de Lausanne
-- Former  (2022): Computational Researcher for [QCBio, UCLA](https://sites.google.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home)
-  - Mentors: Dr. Jeffrey Chiang & Akos Rudas
+- Former  (2022): Computational Researcher for [QCBio, UCLA](https://sites.goo.com/g.ucla.edu/2022-b-i-g-summer-students-dir/home)
+  - Mentors: D
   - Worked on ABP Imputation Model that can predict future blood pressure
 - Former  (2021): Member of the Jonnson Lab
   - Collaborators: Dr. Razvan Marinescu & Vedu Mallela
