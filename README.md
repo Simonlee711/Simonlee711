@@ -23,4 +23,4 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
 - Former  (2022): Computational Researcher for QCBio, UCLA
   - Mentors: Dr. Jeffrey Chiang & Dr. Akos Rudas
-  - Worked on ABP Im future blood pressure
+  - Worked on ABP Imputer Model that predicts future blood pressure
