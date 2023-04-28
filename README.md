@@ -1,6 +1,6 @@
 # Welcome to Simon Lee's Github Repository
 
-[![Website](https://img.shields.io/badge/simonlee711.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://simonlee711.github.io/about/del)
+[![Website](https://img.shields.io/badge/simonlee711.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://simonlee711.github.io/about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simonlee-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-lee-307ba4172/)
 [![Instagram Badge](https://img.shields.io/badge/-simonlee.a-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/simonlee.a/)](https://www.instagram.com/simonlee.a/)
 
