@@ -21,7 +21,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Current (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
-- Former (2022): Vistiting Student at École Polytechnique Fédérale de Lausanne
+- Former (2022): Visiting Student at École Polytechnique Fédérale de Lausanne
 - Former  (2022): Computational Researcher for QCBio, UCLA
   - Mentors: Dr. Jeffrey Chiang & Dr. Akos Rudas
   - Worked on ABP Imputer Model that predicts future blood pressure
