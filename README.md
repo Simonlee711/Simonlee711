@@ -20,10 +20,10 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Future  (2023): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing methods in Representation Learning using Multimodal data
-      - Project 1: Multimodal Clinical pseudo-notes for EHR prediction - |[code](https://github.com/Simonlee711/EHR-Pseudonotes-MMTransformer) | [paper](https://www.overleaf.com/project/65007a158e889eb3588aa818) |
-      - Project 2: | ZEHRO Shot Learning | [code](https://github.com/Simonlee711/ZEHRO-shot-learning) | paper |
-      - Project 3: | TBD | code | paper |
-      - Project 4: | TBD | code | paper |
+      - Project 1: Multimodal Clinical pseudo-notes for EHR prediction | [code](https://github.com/Simonlee711/EHR-Pseudonotes-MMTransformer) | [paper](https://www.overleaf.com/project/65007a158e889eb3588aa818) |
+      - Project 2: ZEHRO Shot Learning | [code](https://github.com/Simonlee711/ZEHRO-shot-learning) | paper |
+      - Project 3: TBD | code | paper |
+      - Project 4: TBD | code | paper |
 - Current (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
