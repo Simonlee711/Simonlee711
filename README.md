@@ -18,6 +18,9 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 ## My Affiliations and Work
 
 - Future  (2023): Ph.D. Student at UCLA
+  - Advisor: Jeffrey Chiang
+  - Working on Developing methods in Representation Learning using Multimodal data
+      - Project 1: Multimodal Clinical pseudo-notes for EHR prediction - [code](https://github.com/Simonlee711/EHR-Pseudonotes-MMTransformer) [paper](https://www.overleaf.com/project/65007a158e889eb3588aa818)
 - Current (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
