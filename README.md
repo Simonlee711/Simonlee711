@@ -21,7 +21,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Advisor: Jeffrey Chiang
   - Working on Developing methods in Representation Learning using Multimodal data
       - Project 1: GeneratEHR: Multimodal Clinical pseudo-notes for EHR prediction | [code](https://github.com/Simonlee711/EHR-Pseudonotes-MMTransformer) | [paper](https://www.overleaf.com/project/652f26a5ad08f24d5b9fe5f7) |
-      - Project 2: kNV Imputation | [code](https://github.com/Simonlee711/ZEHRO-shot-learning) | paper |
+      - Project 2: TBD | code | paper |
       - Project 3: TBD | code | paper |
       - Project 4: TBD | code | paper |
 - Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
