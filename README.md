@@ -20,7 +20,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Current (2023): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing methods in Representation Learning using Multimodal data
-      - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper](https://www.overleaf.com/project/652f26a5ad08f24d5b9fe5f7) |
+      - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper]() |
       - Project 2: TBD | code | paper |
       - Project 3: TBD | code | paper |
       - Project 4: TBD | code | paper |
