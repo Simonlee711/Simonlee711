@@ -33,4 +33,4 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Worked on ABP Imputer Model that predicts future blood pressure
 
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonlee711&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonlee711&hide=stars,prs,issues&show_icons=true&theme=tokyonight&count_private=true)
