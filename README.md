@@ -34,3 +34,4 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonlee711&hide=issues&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter)
