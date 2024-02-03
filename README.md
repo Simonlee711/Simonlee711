@@ -31,3 +31,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Former  (2022): Computational Researcher for QCBio, UCLA
   - Mentors: Dr. Jeffrey Chiang & Dr. Akos Rudas
   - Worked on ABP Imputer Model that predicts future blood pressure
+
+# Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee711f&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
