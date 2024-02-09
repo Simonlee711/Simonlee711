@@ -1,13 +1,12 @@
 # Welcome to Simon Lee's Github Repository
 [![Academic Website](https://img.shields.io/badge/simonalee-ucla-informational?style=flat-square&logo=jekyll&logoColor=white)](https://sites.google.com/g.ucla.edu/simonaleeucla/home)
 [![Website](https://img.shields.io/badge/simons-pictures-informational?style=flat-square&logo=jekyll&logoColor=white)](https://simonlee711.github.io/photos/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-simonlee-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-lee-307ba4172/)
 [![Instagram Badge](https://img.shields.io/badge/-simonlee.a-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/simonlee.a/)](https://www.instagram.com/simonlee.a/)
 [![Twitter Badge](https://img.shields.io/badge/-SimonLee79475-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SimonLee79475)](https://twitter.com/SimonLee79475)
 [![YouTube Badge](https://img.shields.io/badge/-Subscribe-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuMm6O5PC-8kvxHNATCHLIA)](https://www.youtube.com/channel/UCuMm6O5PC-8kvxHNATCHLIA)
 [![Google Scholar Badge](https://img.shields.io/badge/-GoogleScholar-grey?style=flat-square&logo=googlescholar&logoColor=white&link=your-link-here)](https://scholar.google.com/citations?user=HIj-rdQAAAAJ&hl=en)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-MEME-yellow.svg)](https://huggingface.co/Simonlee711)
-
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-simonlee-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-lee-307ba4172/)-->
 
 
 ```
