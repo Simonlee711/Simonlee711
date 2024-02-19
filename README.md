@@ -41,6 +41,3 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Former  (2022): Computational Researcher for QCBio, UCLA
   - Mentors: Dr. Jeffrey Chiang & Dr. Akos Rudas
   - Worked on ABP Imputer Model that predicts future blood pressure
-
-## News Features:
-- [CBS News Interview](https://www.cbsnews.com/losangeles/news/suspect-crashes-during-pursuit-with-ucla-pd-at-least-4-injuries/)
