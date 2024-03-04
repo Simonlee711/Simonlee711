@@ -31,6 +31,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Advisor: Jeffrey Chiang
   - Working on Developing methods in Representation Learning using Multimodal data
       - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper](https://arxiv.org/abs/2402.00160) |
+        - Subproject 1: AlignXpert | [code](https://github.com/Simonlee711/Perfect-Alignment) | [paper]  
       - Project 2: EHR ImageBind | code | paper |
       - Project 3: TBD | code | paper |
       - Project 4: TBD | code | paper |
