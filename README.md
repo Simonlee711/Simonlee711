@@ -32,7 +32,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Working on Developing methods in Representation Learning using Multimodal data
       - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper](https://arxiv.org/abs/2402.00160) |
         - Subproject 1: AlignXpert | [code](https://github.com/Simonlee711/Perfect-Alignment) | [paper]
-        - Subproject 2: Do LLMs understand Medical Codes | [code](https://github.com/Simonlee711/LLMs_ICD) | [paper]  
+        - Subproject 2: Do LLMs understand Medical Codes | [code](https://github.com/Simonlee711/LLMs_ICD) | [paper](https://arxiv.org/abs/2403.10822)  
       - Project 2: EHR ImageBind | code | paper |
       - Project 3: TBD | code | paper |
       - Project 4: TBD | code | paper |
