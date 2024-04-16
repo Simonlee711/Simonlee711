@@ -32,8 +32,9 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Working on Developing methods in Representation Learning using Multimodal data
       - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper](https://arxiv.org/abs/2402.00160) |
         - Subproject 1: Do LLMs understand Medical Codes | [code](https://github.com/Simonlee711/LLMs_ICD) | [paper](https://arxiv.org/abs/2403.10822) |
-        - Subproject 1: Neural ODEs as Textual Solvers | [code](https://github.com/Simonlee711/Perfect-Alignment) | [paper]
-      - Project 2: EHR ImageBind | code | paper |
+        - Subproject 2: Neural ODEs as Textual Solvers | [code](https://github.com/Simonlee711/Neural-Ordinary-Differential-Equations) | [paper]
+        - Subproject 3: Synthetic Data Generation via Agents | [code](https://github.com/Simonlee711/FAKE-EHR) | [paper]
+      - Project 2: Distribution Shift | code | paper |
       - Project 3: TBD | code | paper |
       - Project 4: TBD | code | paper |
 - Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
