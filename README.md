@@ -34,6 +34,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
         - Subproject 1: Do LLMs understand Medical Codes | [code](https://github.com/Simonlee711/LLMs_ICD) | [paper](https://arxiv.org/abs/2403.10822) |
         - Subproject 2: Neural ODEs as Textual Solvers | [code](https://github.com/Simonlee711/Neural-Ordinary-Differential-Equations) | [paper]
         - Subproject 3: Synthetic Data Generation via Agents | [code](https://github.com/Simonlee711/FAKE-EHR) | [paper]
+        - Subproject 4: The Foundations of Text Serialization | [code](https://github.com/Simonlee711/Serialization_SOTA) | [paper]
       - Project 2: Distribution Shift | code | paper |
       - Project 3: TBD | code | paper |
       - Project 4: TBD | code | paper |
