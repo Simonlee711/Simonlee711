@@ -36,7 +36,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
         - Subproject 3: Synthetic Data Generation via Agents | [code](https://github.com/Simonlee711/FAKE-EHR) | [paper]
         - Subproject 4: The Foundations of Text Serialization | [code](https://github.com/Simonlee711/Serialization_SOTA) | [paper]
       - Project 2: Distribution Shift | code | paper |
-      - Project 3: TBD | code | paper |
+      - Project 3: Irregularly Sampled Foundation Model | code | paper |
       - Project 4: TBD | code | paper |
 - Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
