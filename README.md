@@ -32,8 +32,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Working on Developing methods in Representation Learning using Multimodal data
       - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper](https://arxiv.org/abs/2402.00160) |
         - Subproject 1: Do LLMs understand Medical Codes | [code](https://github.com/Simonlee711/LLMs_ICD) | [paper](https://arxiv.org/abs/2403.10822) |
-        - Subproject 2: Synthetic Data Generation via Agents | [code](https://github.com/Simonlee711/FAKE-EHR) | [paper]
-        - Subproject 3: The Foundations of Text Serialization | [code](https://github.com/Simonlee711/Serialization_SOTA) | [paper]
+        - Subproject 3: Antibiotics Paper
       - Project 2: Distribution Shift | code | paper |
       - Project 3: Irregularly Sampled Foundation Model | code | paper |
       - Project 4: TBD | code | paper |
