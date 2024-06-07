@@ -33,7 +33,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
       - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper](https://arxiv.org/abs/2402.00160) |
         - Subproject 1: Do LLMs understand Medical Codes | [paper](https://arxiv.org/abs/2403.10822) |
         - Subproject 2: Antibiotics Paper | [code](https://github.com/Simonlee711/er-pseudonotes) | [paper](https://arxiv.org/abs/2405.20419) |
-        - Subproject 4: Benchmarking Antibiotics Paper | [code]() | [paper]()
+        - Subproject 2.5: Benchmarking Antibiotics Paper | [code]() | [paper]()
       - Project 2: Distribution Shift | code | paper |
       - Project 3: Irregularly Sampled Foundation Model | code | paper |
       - Project 4: TBD | code | paper |
