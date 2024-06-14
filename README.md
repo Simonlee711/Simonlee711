@@ -30,10 +30,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Current (2023): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing methods in Representation Learning using Multimodal data
-      - Project 1: Multimodal Embedding Model for EHR (MEME) | [code](https://github.com/Simonlee711/MEME) | [paper](https://arxiv.org/abs/2402.00160) |
-        - Subproject 1: Do LLMs understand Medical Codes | [paper](https://arxiv.org/abs/2403.10822) |
-        - Subproject 2: Antibiotics Paper | [code](https://github.com/Simonlee711/er-pseudonotes) | [paper](https://arxiv.org/abs/2405.20419) |
-        - Subproject 2.5: Benchmarking Antibiotics Paper | [code]() | [paper]()
+  - Current Projects:
       - Project X: Medical Code FM | code | paper
       - Project 2: Distribution Shift | code | paper |
       - Project 3: Irregularly Sampled Foundation Model | code | paper |
