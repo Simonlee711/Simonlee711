@@ -27,7 +27,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 ## My Affiliations and Work
 
-- Current (2023): Ph.D. Student at UCLA
+- Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing methods in Representation Learning using Multimodal data
   - Current Projects:
