@@ -34,7 +34,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
       - Project X: Medical Code FM | code | paper
       - Project 2: Distribution Shift | code | paper |
       - Project 3: Irregularly Sampled Foundation Model | code | paper |
-      - Project 4: TBD | code | paper |
 - Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
