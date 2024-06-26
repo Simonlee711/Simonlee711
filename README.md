@@ -32,8 +32,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Working on Developing methods in Representation Learning using Multimodal data
   - Current Projects:
       - Project X: Medical Code FM | code | paper
-      - Project 2: Distribution Shift | code | paper |
-      - Project 3: Irregularly Sampled Foundation Model | code | paper |
+      - Project 2: Irregularly Sampled Foundation Model | code | paper |
 - Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
