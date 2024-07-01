@@ -1,5 +1,5 @@
 # Welcome to Simon Lee's Github Repository
-[![Academic Website](https://img.shields.io/badge/simonalee-ucla-informational?style=flat-square&logo=jekyll&logoColor=white)](https://sites.google.com/g.ucla.edu/simonaleeucla/home)
+[![Academic Website](https://img.shields.io/badge/simonalee-ucla-informational?style=flat-square&logo=jekyll&logoColor=white)](https://simonlee-a.github.io/)
 [![Website](https://img.shields.io/badge/simons-pictures-informational?style=flat-square&logo=jekyll&logoColor=white)](https://simonlee711.github.io/photos/)
 [![Instagram Badge](https://img.shields.io/badge/-simonlee.a-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/simonlee.a/)](https://www.instagram.com/simonlee.a/)
 [![Twitter Badge](https://img.shields.io/badge/-SimonLee79475-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SimonLee)](https://twitter.com/SimonLee79475)
