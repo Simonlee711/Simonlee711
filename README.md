@@ -29,7 +29,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
-  - Working on Developing methods in Representation Learning using Multimodal data
+  - Working on Developing methods in Representation Learning for Healthcare Data
   - Current Projects:
       - Project X: Medical Code FM | code | paper
       - Project 2: Irregularly Sampled Foundation Model | code | paper |
