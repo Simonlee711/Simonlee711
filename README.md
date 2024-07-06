@@ -8,7 +8,6 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow.svg?logo=smiley)](https://huggingface.co/Simonlee711)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-simonlee-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-lee-307ba4172/)-->
 
-
 ```
                                                              ,_     _
                                                              |\\_,-~/
@@ -20,11 +19,16 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
     
 
 ```
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
 # Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonlee711&hide=issues&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee711&hide=jupyter%20notebook&layout=compact)
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=simonlee711&style=for-the-badge&color=orange" alt=""/>
 </div>
 
@@ -43,7 +47,3 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Former  (2022): Computational Researcher for QCBio, UCLA
   - Mentors: Dr. Jeffrey Chiang & Dr. Akos Rudas
   - Worked on ABP Imputer Model that predicts future blood pressure
-
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
