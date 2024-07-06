@@ -24,6 +24,9 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonlee711&hide=issues&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee711&hide=jupyter%20notebook&layout=compact)
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=simonlee711&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 ## My Affiliations and Work
 
@@ -40,3 +43,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Former  (2022): Computational Researcher for QCBio, UCLA
   - Mentors: Dr. Jeffrey Chiang & Dr. Akos Rudas
   - Worked on ABP Imputer Model that predicts future blood pressure
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
