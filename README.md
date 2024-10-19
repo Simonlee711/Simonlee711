@@ -1,6 +1,5 @@
 # Welcome to Simon Lee's Github Repository
 [![Academic Website](https://img.shields.io/badge/simonalee-ucla-informational?style=flat-square&logo=jekyll&logoColor=white)](https://simonlee-a.github.io/)
-[![Website](https://img.shields.io/badge/simons-pictures-informational?style=flat-square&logo=jekyll&logoColor=white)](https://simonlee711.github.io/photos/)
 [![Instagram Badge](https://img.shields.io/badge/-simonlee.a-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/simonlee.a/)](https://www.instagram.com/simonlee.a/)
 [![Twitter Badge](https://img.shields.io/badge/-SimonLee79475-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SimonLee)](https://twitter.com/SimonLee79475)
 [![YouTube Badge](https://img.shields.io/badge/-Subscribe-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuMm6O5PC-8kvxHNATCHLIA)](https://www.youtube.com/channel/UCuMm6O5PC-8kvxHNATCHLIA)
@@ -27,7 +26,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 # Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonlee711&hide=issues&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee711&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee711&hide=Jupyter%20Notebook,HTML&layout=compact)
 <div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=simonlee711&style=for-the-badge&color=orange" alt=""/>
 </div>
@@ -36,7 +35,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
-  - Working on Developing methods in Representation Learning for Healthcare Data
+  - Working on Developing methods in Representation Learning for Health Data
   - Also working on standardization efforts
 - Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
