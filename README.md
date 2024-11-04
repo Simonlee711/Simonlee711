@@ -36,7 +36,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing methods in Representation Learning for Health Data
-  - Also working on standardization efforts and good ML practices challenging how the current is flowing in AI research
+  - Also working on standardization efforts and good ML practices
 - Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
