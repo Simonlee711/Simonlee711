@@ -38,7 +38,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Advisor: Jeffrey Chiang
   - Working on Developing methods for Health Data
   - Also working on standardization efforts and good ML practices
-- Former (2023): Data Scientist at [Celsius Therapeutics](https://celsiustx.com/)
+- Former (2023): Data Science at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
 - Former (2022): Visiting Student at École Polytechnique Fédérale de Lausanne
