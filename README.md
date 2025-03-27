@@ -36,8 +36,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Working on wearable foundation models   
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
-  - Working on Developing AI methods for Health Data
-  - Also working on standardization efforts and good ML practices
+  - Working on Developing AI methods and evaluations for Health Data
 - Former (2023): Data Science at [Celsius Therapeutics](https://celsiustx.com/)
   - Manager: Mukund Varma (Senior Machine Learning Scientist) 
   - Working on Bulk Deconvolution & Quanitfying cell types from histology images using computer vision
