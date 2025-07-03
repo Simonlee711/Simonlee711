@@ -37,3 +37,9 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing AI methods and evaluations for Health Data
+
+
+ # News Highlights
+ - [UCLA Health News Highlight](https://www.uclahealth.org/news/release/ai-model-converts-hospital-records-text-better-emergency)
+ - [UCLA Computational Medicine News Highlight](https://compmed.ucla.edu/news/263)
+ - [Medical Xpress News Highlight](https://medicalxpress.com/news/2025-07-ai-hospital-text-emergency-decisions.html)
