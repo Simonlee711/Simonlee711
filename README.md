@@ -5,7 +5,9 @@
 [![YouTube Badge](https://img.shields.io/badge/-Subscribe-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuMm6O5PC-8kvxHNATCHLIA)](https://www.youtube.com/channel/UCuMm6O5PC-8kvxHNATCHLIA)
 [![Google Scholar Badge](https://img.shields.io/badge/-GoogleScholar-grey?style=flat-square&logo=googlescholar&logoColor=white&link=your-link-here)](https://scholar.google.com/citations?user=HIj-rdQAAAAJ&hl=en)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow.svg?logo=smiley)](https://huggingface.co/Simonlee711)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-simonlee-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-lee-307ba4172/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-simonlee-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-a-lee-b71525319/)
+[![Personal Blog](https://img.shields.io/badge/Personal%20Blog-green.svg?logo=smiley)](https://simonleea.substack.com/)
+
 
 ```
                                                              ,_     _
