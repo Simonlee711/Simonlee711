@@ -43,12 +43,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
  # News Highlights
  ### MEME 
-  - [UCLA Researchers Develop AI Model that Converts Hospital Records into Text for Better Emergency Care Decisions](https://theaiinsider.tech/2025/07/03/ucla-researchers-develop-ai-model-that-converts-hospital-records-into-text-for-better-emergency-care-decisions/)
-  - [UCLA’s AI Researchers Turn Fragmented EHR Data into ‘Pseudo-notes’](https://www.hcinnovationgroup.com/analytics-ai/generative-ai/news/55301196/uclas-ai-researchers-turn-fragmented-ehr-data-into-pseudo-notes)
-  - [UCLA Health develops AI to make EHRs more readable](https://www.beckershospitalreview.com/healthcare-information-technology/ai/ucla-health-develops-ai-to-make-ehrs-more-readable/)
-  - [UCLA Health: AI Model Converts Hospital Records Into Text for Better Emergency Care Decisions](https://www.hmpgloballearningnetwork.com/site/cathlab/news/ucla-health-ai-model-converts-hospital-records-text-better-emergency-care)
   - [AI system turns complex health records into readable narratives for better care](https://www.news-medical.net/news/20250702/AI-system-turns-complex-health-records-into-readable-narratives-for-better-care.aspx)
   - [UCLA Health AI: Amélioration de la lisibilité du DSE](https://www.lederniereheure.com/ucla-health-ai-amelioration-de-la-lisibilite-du-dse/)
  - [UCLA Health News Highlight](https://www.uclahealth.org/news/release/ai-model-converts-hospital-records-text-better-emergency)
  - [UCLA Computational Medicine News Highlight](https://compmed.ucla.edu/news/263)
- - [Medical Xpress News Highlight](https://medicalxpress.com/news/2025-07-ai-hospital-text-emergency-decisions.html)
