@@ -25,13 +25,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-# Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonlee711&hide=issues&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonlee711&hide=Jupyter%20Notebook,HTML&layout=compact)
-<div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=simonlee711&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 ## My Affiliations and Work
 - Future (June 2025-): Health AI Scholar at Samsung Research, Digital Health Team
