@@ -27,11 +27,13 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 
 ## My Affiliations and Work
-- Future (2025-2026): Health AI Scholar at Samsung Research, Digital Health Team
-  - Working on wearable foundation models   
+- Future (2026-2026): Google Research
+  - Multimodality  
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing AI methods and evaluations for Health Data
+- Past (2025-2026): Health AI Scholar at Samsung Research, Digital Health Team
+  - Working on wearable foundation models 
 
 
  # News Highlights
