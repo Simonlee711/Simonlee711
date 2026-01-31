@@ -27,6 +27,8 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 
 ## My Affiliations and Work 
+- Future (2026-2026): Incoming Google Research, Health Intelligence Team
+  - Multimodality   
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
   - Working on Developing AI methods and evaluations for Health Data
