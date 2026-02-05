@@ -40,3 +40,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
  ### MEME 
  - [UCLA Health News Highlight](https://www.uclahealth.org/news/release/ai-model-converts-hospital-records-text-better-emergency)
  - [UCLA Computational Medicine News Highlight](https://compmed.ucla.edu/news/263)
+
+### HiMAE
+ - [Samsung Research America](https://sra.samsung.com/publications/himae-hierarchical-masked-autoencoders-discover-resolution-specific-structure-in-wearable-time-series/)
