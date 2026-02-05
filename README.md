@@ -40,5 +40,3 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
  ### MEME 
  - [UCLA Health News Highlight](https://www.uclahealth.org/news/release/ai-model-converts-hospital-records-text-better-emergency)
  - [UCLA Computational Medicine News Highlight](https://compmed.ucla.edu/news/263)
- - [AI system turns complex health records into readable narratives for better care](https://www.news-medical.net/news/20250702/AI-system-turns-complex-health-records-into-readable-narratives-for-better-care.aspx)
-  - [UCLA Health AI: Amélioration de la lisibilité du DSE](https://www.lederniereheure.com/ucla-health-ai-amelioration-de-la-lisibilite-du-dse/)
