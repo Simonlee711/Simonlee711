@@ -46,3 +46,4 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
  - [Samsung Research America Linkedin](https://www.linkedin.com/posts/sra-samsungreasearchamerica_samsungresearchamerica-digitalhealth-iclr-activity-7424947419404177408-eN-M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCzlkUBT-lyYkOC_ntQC_3hv1KZyEJlUtk)
  - [Samsung Research Website](https://research.samsung.com/research-papers/HiMAE-Hierarchical-Masked-Autoencoders-Discover-Resolution-Specific-Structure-in-Wearable-Time-Series)
  - [Samsung Research Blog](https://research.samsung.com/blog/The-Resolution-Hypothesis-Discovering-how-Time-Scale-Maps-to-Health-Outcomes)
+ - [Samsung Research X Post](https://x.com/samsungresearch/status/2022118421496988134)
