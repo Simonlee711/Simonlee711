@@ -47,3 +47,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
  - [Samsung Research Website](https://research.samsung.com/research-papers/HiMAE-Hierarchical-Masked-Autoencoders-Discover-Resolution-Specific-Structure-in-Wearable-Time-Series)
  - [Samsung Research Blog](https://research.samsung.com/blog/The-Resolution-Hypothesis-Discovering-how-Time-Scale-Maps-to-Health-Outcomes)
  - [Samsung Research X Post](https://x.com/samsungresearch/status/2022118421496988134)
+
+### RLSF
+ - [OpenAI Pilot Projects](https://dts.ucla.edu/initiatives/ai/pilot-projects)
