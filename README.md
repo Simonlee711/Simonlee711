@@ -36,10 +36,12 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
   - Working on wearable foundation models 
 
 
- # News Highlights
- ### MEME 
- - [UCLA Health News Highlight](https://www.uclahealth.org/news/release/ai-model-converts-hospital-records-text-better-emergency)
- - [UCLA Computational Medicine News Highlight](https://compmed.ucla.edu/news/263)
+# News Highlights
+
+### MEDS 
+- [Eureka News](https://www.eurekalert.org/news-releases/1130134)
+- [MedXpress](https://medicalxpress.com/news/2026-05-team-source-framework-health-ai.html)
+- [Bioengineer](https://bioengineer.org/columbia-researchers-create-open-source-framework-to-boost-health-ai-innovation/)
 
 ### HiMAE
  - [Samsung Research America Website](https://sra.samsung.com/publications/himae-hierarchical-masked-autoencoders-discover-resolution-specific-structure-in-wearable-time-series/)
@@ -47,6 +49,11 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
  - [Samsung Research Website](https://research.samsung.com/research-papers/HiMAE-Hierarchical-Masked-Autoencoders-Discover-Resolution-Specific-Structure-in-Wearable-Time-Series)
  - [Samsung Research Blog](https://research.samsung.com/blog/The-Resolution-Hypothesis-Discovering-how-Time-Scale-Maps-to-Health-Outcomes)
  - [Samsung Research X Post](https://x.com/samsungresearch/status/2022118421496988134)
+ 
+ ### MEME 
+ - [UCLA Health News Highlight](https://www.uclahealth.org/news/release/ai-model-converts-hospital-records-text-better-emergency)
+ - [UCLA Computational Medicine News Highlight](https://compmed.ucla.edu/news/263)
+
 
 ### RLSF
  - [OpenAI Pilot Projects](https://dts.ucla.edu/initiatives/ai/pilot-projects)
