@@ -7,6 +7,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow.svg?logo=smiley)](https://huggingface.co/Simonlee711)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simonlee-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-a-lee-b71525319/)
 [![Personal Blog](https://img.shields.io/badge/Personal%20Blog-green.svg?logo=smiley)](https://simonleea.substack.com/)
+![](https://komarev.com/ghpvc/?username=Simonlee711&color=brightgreen)
 
 
 ```
