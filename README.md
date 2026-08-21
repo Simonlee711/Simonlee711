@@ -45,6 +45,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - [Bioengineer](https://bioengineer.org/columbia-researchers-create-open-source-framework-to-boost-health-ai-innovation/)
 
 ### HiMAE
+ - [Samsung Newsroom](https://news.samsung.com/global/from-biosignals-to-health-insights-samsung-researchs-work-on-health-foundation-models)
  - [Samsung Research America Website](https://sra.samsung.com/publications/himae-hierarchical-masked-autoencoders-discover-resolution-specific-structure-in-wearable-time-series/)
  - [Samsung Research America Linkedin](https://www.linkedin.com/posts/sra-samsungreasearchamerica_samsungresearchamerica-digitalhealth-iclr-activity-7424947419404177408-eN-M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCzlkUBT-lyYkOC_ntQC_3hv1KZyEJlUtk)
  - [Samsung Research Website](https://research.samsung.com/research-papers/HiMAE-Hierarchical-Masked-Autoencoders-Discover-Resolution-Specific-Structure-in-Wearable-Time-Series)
