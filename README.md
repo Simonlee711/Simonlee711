@@ -42,9 +42,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 ### MEDS 
 - [MIT News](https://jclinic.mit.edu/health-ai-has-a-standards-problem/)
 - [Columbia News](https://www.dbmi.columbia.edu/columbia-led-team-develops-open-source-framework-to-accelerate-health-ai-research/)
-- [Eureka News](https://www.eurekalert.org/news-releases/1130134)
-- [MedXpress](https://medicalxpress.com/news/2026-05-team-source-framework-health-ai.html)
-- [Bioengineer](https://bioengineer.org/columbia-researchers-create-open-source-framework-to-boost-health-ai-innovation/)
 
 ### HiMAE
  - [Samsung Newsroom](https://news.samsung.com/global/from-biosignals-to-health-insights-samsung-researchs-work-on-health-foundation-models)
