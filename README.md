@@ -43,14 +43,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 - [Google Blog](https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/)
 - [Google X Post](https://x.com/GoogleResearch/status/2120613625186673087)
 
-### GlucoFM
-- [Google Blog](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)
-- [Google X Post](https://x.com/GoogleResearch/status/2092686085910667663)
-
-### MEDS 
-- [MIT News](https://jclinic.mit.edu/health-ai-has-a-standards-problem/)
-- [Columbia News](https://www.dbmi.columbia.edu/columbia-led-team-develops-open-source-framework-to-accelerate-health-ai-research/)
-
 ### HiMAE
  - [Samsung Newsroom](https://news.samsung.com/global/from-biosignals-to-health-insights-samsung-researchs-work-on-health-foundation-models)
  - [Samsung Research America Website](https://sra.samsung.com/publications/himae-hierarchical-masked-autoencoders-discover-resolution-specific-structure-in-wearable-time-series/)
@@ -58,6 +50,14 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
  - [Samsung Research Website](https://research.samsung.com/research-papers/HiMAE-Hierarchical-Masked-Autoencoders-Discover-Resolution-Specific-Structure-in-Wearable-Time-Series)
  - [Samsung Research Blog](https://research.samsung.com/blog/The-Resolution-Hypothesis-Discovering-how-Time-Scale-Maps-to-Health-Outcomes)
  - [Samsung Research X Post](https://x.com/samsungresearch/status/2022118421496988134)
+
+### GlucoFM
+- [Google Blog](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)
+- [Google X Post](https://x.com/GoogleResearch/status/2092686085910667663)
+
+### MEDS 
+- [MIT News](https://jclinic.mit.edu/health-ai-has-a-standards-problem/)
+- [Columbia News](https://www.dbmi.columbia.edu/columbia-led-team-develops-open-source-framework-to-accelerate-health-ai-research/)
  
  ### MEME 
  - [UCLA Health News Highlight](https://www.uclahealth.org/news/release/ai-model-converts-hospital-records-text-better-emergency)
