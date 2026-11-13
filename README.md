@@ -39,6 +39,14 @@ ZZZzz /,`.-'`'    -.  ;-;;,_                                 \  _T_/-._( (
 
 # News Highlights
 
+### Coachable Health Age 
+- [Google Blog](https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/)
+- [Google X Post](https://x.com/GoogleResearch/status/2120613625186673087)
+
+### GlucoFM
+- [Google Blog](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)
+- [Google X Post](https://x.com/GoogleResearch/status/2092686085910667663)
+
 ### MEDS 
 - [MIT News](https://jclinic.mit.edu/health-ai-has-a-standards-problem/)
 - [Columbia News](https://www.dbmi.columbia.edu/columbia-led-team-develops-open-source-framework-to-accelerate-health-ai-research/)
